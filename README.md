@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hggew&theme=flag_india&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hggew&layout=compact&theme=falg_india) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hggew&theme=flag-india&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hggew&layout=compact&theme=falg-india) 
 <!--
 **hggew/hggew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
